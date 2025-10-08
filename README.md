@@ -48,6 +48,4 @@ The following CPUs should work:
 
 Intel: 4th Generation (Haswell) and above
 
-AMD: All Ryzen series
-
 ========================================
