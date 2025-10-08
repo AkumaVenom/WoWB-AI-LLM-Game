@@ -1,6 +1,7 @@
 # WoWB-AI-LLM-Game
 
-Pre-Release Download: Coming Soon.
+Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&id=1JGE2wJZKg1qh3NOvZIChEzr4Ssq8y0f3
+)
 
 ========================================================================
 
