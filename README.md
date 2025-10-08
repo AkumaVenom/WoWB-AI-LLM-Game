@@ -18,3 +18,35 @@ World of Warbringers is being created with Unreal Engine 5.5 and is a work in pr
 https://discord.gg/Uf8Q8usSmk
 
 ========================================================================
+
+The GGUF LLM model can be replaced in the packaged build of the app to any that you want to use, Just change the new model file name to what the current model file name is and it should work as long as its .gguf file format.
+
+100% offline, NO internet needed to run it, it is completely local only. The A.I's Feature TTS Voices and Speech recognition en-us, everything running 100% offline on your PC with privacy!
+
+===========================================================
+
+Recommended System Requirements:
+
+Ram: 16GB
+
+Video Ram: 6GB
+
+SSD/HDD: 10GB
+
+Direct X 12
+
+OS: Windows 11 64bit
+
+Requires a Nvidia GPU.
+
+Recommended: CUDA 12.2
+
+Requires a CPU that supports AVX, AVX2 and FMA.
+
+The following CPUs should work:
+
+Intel: 4th Generation (Haswell) and above
+
+AMD: All Ryzen series
+
+========================================
