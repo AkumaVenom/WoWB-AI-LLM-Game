@@ -16,7 +16,7 @@ World of Warbringers is being created with Unreal Engine 5.5 and is a work in pr
 
 ========================================================================
 
-https://discord.gg/Uf8Q8usSmk
+![1](https://github.com/user-attachments/assets/79c3978e-58e0-4e65-be0f-dc491f6305f7)
 
 ========================================================================
 
@@ -49,3 +49,5 @@ The following CPUs should work:
 Intel: 4th Generation (Haswell) and above
 
 ========================================
+
+https://discord.gg/Uf8Q8usSmk
