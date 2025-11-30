@@ -5,6 +5,10 @@ Pre-Release Download: [Click Here](https://drive.google.com/uc?export=download&i
 
 ========================================================================
 
+![Image_fx(2)](https://github.com/user-attachments/assets/64484d6d-ab0d-4381-ab23-739b8cc606c1)
+
+========================================================================
+
 WowB is a cutting-edge game powered by 100% Local AI LLM NPCs for every character in the game.
 
 Players are NOT interacting with pre-programmed NPCs, You will be conversing and interacting with open world npcs, the game's captivating star attractions, who possesses true conversational freedom powered by the latest in LLM Chat AI.
@@ -13,10 +17,6 @@ Using voice recognition, you can speak directly to them with your voice, and the
 World of Warbringers is set in a universe of orc and human factions fighting for supremacy on the world of Eterna.
 
 World of Warbringers is being created with Unreal Engine 5.5 and is a work in progress that is currently in the early alpha stage at the moment.
-
-========================================================================
-
-![1](https://github.com/user-attachments/assets/79c3978e-58e0-4e65-be0f-dc491f6305f7)
 
 ========================================================================
 
@@ -53,4 +53,8 @@ Intel: 4th Generation (Haswell) and above
 https://discord.gg/Uf8Q8usSmk
 
 Donation/Tips https://www.paypal.me/akumacreative
+
+========================================
+
+![1](https://github.com/user-attachments/assets/79c3978e-58e0-4e65-be0f-dc491f6305f7)
 
